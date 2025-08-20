@@ -1,7 +1,5 @@
 from gpiozero import Robot
 import time
-def new:
-pass
 time.sleep(20)
 robby = Robot
 left=(7,8)
